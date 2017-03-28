@@ -127,11 +127,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\comet\comet_mp.xml</FileName>
-			<FileHash>90dbe993331bfb0ee67789d31b06409d</FileHash>
+			<FileHash>1691646af70122b66f3a02b608b44543</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\cromwell\cromwell_mk4_75mm_mp.xml</FileName>
-			<FileHash>0cadd39af1d3c14a08252e086fd525c9</FileHash>
+			<FileHash>b1e27fe3d41ac1083b0f76c7685cc7f6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
@@ -346,6 +346,14 @@
 			<FileHash>5d509499a0eece3e7b07491164da6476</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp.xml</FileName>
+			<FileHash>a644ade5b1ed8e90d4f15d88bc7709c4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\british\vehicles\cromwell_squad_mp\cromwell_mk4_75mm_squad_mp.xml</FileName>
+			<FileHash>3d9afe85c3b4c6b83097b46c801bc9ed</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\soviet\soldiers\m1910_maxim_hmg_squad\m1910_maxim_heavy_machine_gun_squad_mp.xml</FileName>
 			<FileHash>5bbb1c87781777d90aaf6f32659f6f89</FileHash>
 		</BurnInfo>
@@ -360,6 +368,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.xml</FileName>
 			<FileHash>27d26f9bc8dd3dce709ee4aa319ee662</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp.xml</FileName>
+			<FileHash>0a6d7bd0c3bde8ee4702dec292dc36e5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp.xml</FileName>

@@ -470,7 +470,7 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\population_ext">
 			<float name="medic_pop" value="0" />
-			<float name="personnel_pop" value="16" />
+			<float name="personnel_pop" value="20" />
 			<float name="vehicle_pop" value="0" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\sight_ext">
@@ -627,7 +627,7 @@
 								<float name="z" value="0.63" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp" />
+							<instance_reference name="weapon" value="weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -1198,7 +1198,7 @@
 			<bool name="smooth_path" value="True" />
 			<instance_reference name="turn_plan" value="turn_plan\tank_i" />
 			<float name="acceleration" value="2.2" />
-			<float name="rotation_rate" value="36" />
+			<float name="rotation_rate" value="32" />
 			<float name="speed_max" value="6.9" />
 			<float name="on_ice_accel_decel_multiplier" value="0.15" />
 			<float name="on_land_overturn_scale" value="0.03" />
@@ -1225,7 +1225,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
 						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">
