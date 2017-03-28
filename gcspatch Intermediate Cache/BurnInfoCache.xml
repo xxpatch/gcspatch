@@ -14,6 +14,18 @@
 			<FileHash>620905068a7c5ab0d50abfc54ff48130</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_mp.xml</FileName>
+			<FileHash>e4e6a8f1af34433fd42b9f3191c1396e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_wp_mp.xml</FileName>
+			<FileHash>ec2ed1e0ef8ef81552a4e4534fc27395</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\accessory_weapons\cromwell_smoke_shell_shot_mp.xml</FileName>
+			<FileHash>ee8ebd08c74f56da8a3655612952c23e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\repair_ability\brit_repair_ews_ability_sappers_mp.xml</FileName>
 			<FileHash>a4e7dfbcd834cea2e66e2863f24bb428</FileHash>
 		</BurnInfo>
@@ -127,11 +139,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\comet\comet_mp.xml</FileName>
-			<FileHash>1691646af70122b66f3a02b608b44543</FileHash>
+			<FileHash>67babe473589fc4efc19af980a44a771</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\cromwell\cromwell_mk4_75mm_mp.xml</FileName>
-			<FileHash>b1e27fe3d41ac1083b0f76c7685cc7f6</FileHash>
+			<FileHash>d199fbdd779eb2c24f695cdcb47b7dc6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
@@ -372,6 +384,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp.xml</FileName>
 			<FileHash>0a6d7bd0c3bde8ee4702dec292dc36e5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\comet_smoke_wp_shot_dot_mp.xml</FileName>
+			<FileHash>8cd3aa75668731ab391f8e38255ed05c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp.xml</FileName>

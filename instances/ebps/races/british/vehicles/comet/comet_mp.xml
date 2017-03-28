@@ -16,9 +16,9 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
-				<instance_reference name="ability" value="abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_mp" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\comet_crew_grenade_targeted" />
-				<instance_reference name="ability" value="abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_wp_mp" />
+				<instance_reference name="ability" value="abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_wp_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
 				<instance_reference name="ability" value="abilities\british\modal_ability\commander_ability\passive_ability\command_vehicle_plane" />
 				<instance_reference name="ability" value="abilities\british\toggle_ability\brit_vehicle_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
