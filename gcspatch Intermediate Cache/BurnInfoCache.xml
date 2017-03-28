@@ -14,6 +14,14 @@
 			<FileHash>620905068a7c5ab0d50abfc54ff48130</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\repair_ability\brit_repair_ews_ability_sappers_mp.xml</FileName>
+			<FileHash>a4e7dfbcd834cea2e66e2863f24bb428</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\timed_ability\tune_up_bonus_mp.xml</FileName>
+			<FileHash>f65af3692383381da0cc4046b50f0804</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\german\toggle_ability\handbrake_mode_new_mp.xml</FileName>
 			<FileHash>3303bc8fa15c2497512e9ceb1285ee78</FileHash>
 		</BurnInfo>
@@ -344,6 +352,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp.xml</FileName>
 			<FileHash>b0f092476c7a5bd4708406c535a20d3d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\british\items\british_tank_commander.xml</FileName>
+			<FileHash>234ae2f3fa1d23d761d5ff02f8cb10bf</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.xml</FileName>
