@@ -85,7 +85,7 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="110" />
+					<float name="fuel" value="120" />
 					<float name="manpower" value="340" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
@@ -600,7 +600,7 @@
 								<float name="z" value="1.1" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp" />
+							<instance_reference name="weapon" value="weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -1108,7 +1108,7 @@
 			<bool name="smooth_path" value="True" />
 			<instance_reference name="turn_plan" value="turn_plan\tank_i" />
 			<float name="acceleration" value="2.6" />
-			<float name="rotation_rate" value="38" />
+			<float name="rotation_rate" value="32" />
 			<float name="speed_max" value="7" />
 			<float name="on_ice_accel_decel_multiplier" value="0.6" />
 			<float name="on_land_overturn_scale" value="0.2" />
