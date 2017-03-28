@@ -3,14 +3,17 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\toggle_ability\usf_hold_fire_hardpoint2_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\toggle_ability\usf_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\handbrake_mode_new_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\toggle_ability\luchs_hold_fire_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\team_weapons\at_guns\m1_57mm_antitank_gun_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m10_tank_destroyer\m10_tank_destroyer_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m26_pershing\m26_pershing_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m36_tank_destroyer\m36_tank_destroyer_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m4a3_sherman\m4a3e8_sherman_easy_8_mp.rgd
@@ -66,6 +69,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\vehicles\t_70m\t_70m_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\team_weapons\at_gun\pak43_88mm_at_gun_westgerman_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\team_weapons\at_gun\raketenwerfer43_88mm_puppchen_antitank_gun_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\hetzer\hetzer_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\jagdtiger_sdkfz_186\jagdtiger_sdkfz_186_mp.rgd

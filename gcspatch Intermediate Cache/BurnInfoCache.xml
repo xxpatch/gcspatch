@@ -6,6 +6,10 @@
 			<FileHash>64fcc73d08b8dd186ca82f2dd3eece20</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\aef\toggle_ability\usf_hold_fire_hardpoint2_mp.xml</FileName>
+			<FileHash>a9a7fb96af9d02eb882f576f6e0a0d40</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\aef\toggle_ability\usf_hold_fire_mp.xml</FileName>
 			<FileHash>620905068a7c5ab0d50abfc54ff48130</FileHash>
 		</BurnInfo>
@@ -16,6 +20,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.xml</FileName>
 			<FileHash>5cc941a1c3933587ba76748a73a390e4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\west_german\toggle_ability\luchs_hold_fire_mp.xml</FileName>
+			<FileHash>380524e17f8535c41108be7bcf8d9951</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\team_weapons\at_guns\m1_57mm_antitank_gun_mp.xml</FileName>
@@ -36,6 +44,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\vehicles\m36_tank_destroyer\m36_tank_destroyer_mp.xml</FileName>
 			<FileHash>0fb0471a620192ce3598f7fb2436070b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.xml</FileName>
+			<FileHash>9b892ab4d5a6aed3400196afcf1ff947</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.xml</FileName>
@@ -258,6 +270,10 @@
 			<FileHash>920901b91aa3deb64b681aa186c03f1e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
+			<FileHash>250bb9498269adc4f886ec2ca653d42c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\hetzer\hetzer_mp.xml</FileName>
 			<FileHash>7620bb6c7b0ba31335d882fc9af24eaa</FileHash>
 		</BurnInfo>
@@ -291,7 +307,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
-			<FileHash>e50654ad85344e42984a1d2c2427a6ff</FileHash>
+			<FileHash>54b888e8b76b4c0af47c94b00e14abd8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_mp.xml</FileName>
