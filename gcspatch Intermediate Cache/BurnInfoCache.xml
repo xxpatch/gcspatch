@@ -386,6 +386,14 @@
 			<FileHash>5d509499a0eece3e7b07491164da6476</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\british\soldiers\sapper_squad\sapper_squad_mp.xml</FileName>
+			<FileHash>52f510c630ae8dafa4eaa5063d0aba39</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\british\soldiers\sapper_squad\sapper_squad_recovery_mp.xml</FileName>
+			<FileHash>29aa726ac9ae5c6975614d1db0a0a6c3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp.xml</FileName>
 			<FileHash>a644ade5b1ed8e90d4f15d88bc7709c4</FileHash>
 		</BurnInfo>
@@ -398,12 +406,24 @@
 			<FileHash>5bbb1c87781777d90aaf6f32659f6f89</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\slot_item\aef\flame_weapon\assault_engineer_flamethrower.xml</FileName>
+			<FileHash>9a51ef4edf95ffafe6e9cb2ba46d7d20</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp.xml</FileName>
 			<FileHash>b0f092476c7a5bd4708406c535a20d3d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\british\items\british_tank_commander.xml</FileName>
 			<FileHash>234ae2f3fa1d23d761d5ff02f8cb10bf</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\british\items\sappers_minesweeper_upgrade_mp.xml</FileName>
+			<FileHash>357c6918818d3775a4ca3ab353998b02</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\british\items\sapper_flamethrower.xml</FileName>
+			<FileHash>ee89f540efb3a6e8b837149d25358cc8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.xml</FileName>
