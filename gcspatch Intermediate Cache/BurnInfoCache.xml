@@ -14,6 +14,10 @@
 			<FileHash>620905068a7c5ab0d50abfc54ff48130</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\accessory_weapons\aec_tread_shots_mp.xml</FileName>
+			<FileHash>edf1ecb418b8a142ad0988a552f5969f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_mp.xml</FileName>
 			<FileHash>e4e6a8f1af34433fd42b9f3191c1396e</FileHash>
 		</BurnInfo>
@@ -38,6 +42,10 @@
 			<FileHash>f65af3692383381da0cc4046b50f0804</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\german\timed_ability\command_panther_mark_target.xml</FileName>
+			<FileHash>d7983604fe2d51b052f4c77506c3c8ca</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\german\toggle_ability\handbrake_mode_new_mp.xml</FileName>
 			<FileHash>3303bc8fa15c2497512e9ceb1285ee78</FileHash>
 		</BurnInfo>
@@ -48,10 +56,6 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.xml</FileName>
 			<FileHash>5cc941a1c3933587ba76748a73a390e4</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\west_german\modal_ability\commander_ability\command_mark_vehicle.xml</FileName>
-			<FileHash>435f7159da124d5cbc6f4c480bdacf1d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\west_german\modal_ability\dispatch_ability\command_panther.xml</FileName>
@@ -163,7 +167,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
-			<FileHash>91dfbaf946ba6b7e7523601633fc5a8a</FileHash>
+			<FileHash>d6f74034239ee28a35acc5f122a27db5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\centaur\centaur_aa_mk2_mp.xml</FileName>
@@ -439,7 +443,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.xml</FileName>
-			<FileHash>27d26f9bc8dd3dce709ee4aa319ee662</FileHash>
+			<FileHash>d2e96cbc79b815dc050a181c85289e55</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\bofor_emplacement_40mm_autocannon_barrage_artillery_cover.xml</FileName>
@@ -451,7 +455,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\comet_smoke_wp_shot_dot_mp.xml</FileName>
-			<FileHash>8cd3aa75668731ab391f8e38255ed05c</FileHash>
+			<FileHash>e040d847d3d24370b108905524dfd7e7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp.xml</FileName>

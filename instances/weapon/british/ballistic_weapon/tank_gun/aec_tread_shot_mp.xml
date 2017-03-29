@@ -13,8 +13,8 @@
 			<float name="post_firing_aim_time" value="4" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
-				<float name="max" value="2" />
-				<float name="min" value="2" />
+				<float name="max" value="1.5" />
+				<float name="min" value="1.5" />
 			</group>
 			<group name="aim_time_multiplier">
 				<float name="near" value="1" />
@@ -448,7 +448,7 @@
 			<float name="accuracy_multiplier" value="0.4166667" />
 			<float name="burst_multiplier" value="1" />
 			<float name="cooldown_multiplier" value="1" />
-			<bool name="disable_moving_firing" value="True" />
+			<bool name="disable_moving_firing" value="False" />
 			<float name="moving_end_time" value="0" />
 			<float name="moving_start_time" value="0" />
 		</group>
@@ -486,8 +486,8 @@
 		</group>
 		<group name="reload">
 			<group name="duration">
-				<float name="max" value="1.5" />
-				<float name="min" value="1.5" />
+				<float name="max" value="2" />
+				<float name="min" value="2" />
 			</group>
 			<group name="duration_multiplier">
 				<float name="far" value="1" />
