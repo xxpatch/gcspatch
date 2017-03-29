@@ -146,6 +146,10 @@
 			<FileHash>1939c792d50014efed660ee4feb7d54b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\team_weapons\land_mattress_launcher\brit_land_mattress_launcher_mp.xml</FileName>
+			<FileHash>6dee51dd72baffc789f6534802fa81aa</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
 			<FileHash>91dfbaf946ba6b7e7523601633fc5a8a</FileHash>
 		</BurnInfo>
@@ -416,6 +420,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp.xml</FileName>
 			<FileHash>f54fd89443f2b4662a59a8eee769b68b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\explosive_weapons\light_artillery\land_mattress_60lb_rocket_mp.xml</FileName>
+			<FileHash>18cffb4d413ca78942ae0885adffb21e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\explosive_weapons\light_artillery\land_mattress_phosphorus_rocket_mp.xml</FileName>
+			<FileHash>6250b0ff1b83e46b00da33d96cfb35c6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\maxim_m1910_hmg_mp.xml</FileName>
