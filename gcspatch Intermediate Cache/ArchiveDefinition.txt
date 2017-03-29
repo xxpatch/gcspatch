@@ -8,6 +8,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\comet_smoke_shell_shot_wp_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\accessory_weapons\cromwell_smoke_shell_shot_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\commander_ability\artillery_cover.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\repair_ability\brit_repair_ews_ability_sappers_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\tune_up_bonus_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\handbrake_mode_new_mp.rgd
@@ -16,6 +17,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\commander_ability\command_mark_vehicle.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\modal_ability\dispatch_ability\command_panther.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\toggle_ability\luchs_hold_fire_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\critical\vehicle_loader_injured.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\projectile\offmap_artillery_projectile_heavy_new_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\team_weapons\at_guns\m1_57mm_antitank_gun_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m10_tank_destroyer\m10_tank_destroyer_mp.rgd
@@ -109,9 +112,11 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\sappers_minesweeper_upgrade_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\sapper_flamethrower.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\bofor_emplacement_40mm_autocannon_barrage_artillery_cover.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\comet_smoke_wp_shot_dot_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\heavy_artillery\155mm_artillery_cover.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\light_artillery\land_mattress_60lb_rocket_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\british\explosive_weapons\light_artillery\land_mattress_phosphorus_rocket_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\maxim_m1910_hmg_mp.rgd

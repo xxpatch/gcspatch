@@ -26,6 +26,10 @@
 			<FileHash>ee8ebd08c74f56da8a3655612952c23e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\commander_ability\artillery_cover.xml</FileName>
+			<FileHash>a98c2733c5085243c365312e07a89344</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\repair_ability\brit_repair_ews_ability_sappers_mp.xml</FileName>
 			<FileHash>a4e7dfbcd834cea2e66e2863f24bb428</FileHash>
 		</BurnInfo>
@@ -56,6 +60,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\west_german\toggle_ability\luchs_hold_fire_mp.xml</FileName>
 			<FileHash>380524e17f8535c41108be7bcf8d9951</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\critical\vehicle_loader_injured.xml</FileName>
+			<FileHash>2bb8a9088c9eb2fb7262ade8a2653313</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\projectile\offmap_artillery_projectile_heavy_new_mp.xml</FileName>
+			<FileHash>ee1c317eec44ad37de2739eb60d8d867</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\team_weapons\at_guns\m1_57mm_antitank_gun_mp.xml</FileName>
@@ -430,6 +442,10 @@
 			<FileHash>27d26f9bc8dd3dce709ee4aa319ee662</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\bofor_emplacement_40mm_autocannon_barrage_artillery_cover.xml</FileName>
+			<FileHash>27d7286a810cc51bf0a408d70fe0e60b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\comet_17p_77mm_hv_mp.xml</FileName>
 			<FileHash>0a6d7bd0c3bde8ee4702dec292dc36e5</FileHash>
 		</BurnInfo>
@@ -440,6 +456,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\cromwell_75mm_mp.xml</FileName>
 			<FileHash>f54fd89443f2b4662a59a8eee769b68b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\explosive_weapons\heavy_artillery\155mm_artillery_cover.xml</FileName>
+			<FileHash>4180f43dddca8f9736b480a170f9a3cc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\explosive_weapons\light_artillery\land_mattress_60lb_rocket_mp.xml</FileName>
