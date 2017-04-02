@@ -76,10 +76,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\sight_radius_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743540" />
+							<uniqueid name="id" value="1073742050" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743541" />
+					<uniqueid name="id" value="1073742051" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -130,10 +130,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\weapon_scatter" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743542" />
+							<uniqueid name="id" value="1073742052" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743543" />
+					<uniqueid name="id" value="1073742053" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />

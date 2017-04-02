@@ -67,10 +67,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\weapon_scatter" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743645" />
+							<uniqueid name="id" value="1073742234" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743646" />
+					<uniqueid name="id" value="1073742235" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -106,10 +106,10 @@
 						<template_reference name="action" value="action\slot_item_add">
 							<instance_reference name="slot_item" value="slot_item\west_german\small_arms\mg42_turret_mounted_panther_wg_mp" />
 							<bool name="permanent" value="True" />
-							<uniqueid name="id" value="1073743647" />
+							<uniqueid name="id" value="1073742236" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743648" />
+					<uniqueid name="id" value="1073742237" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -809,7 +809,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743649" />
+						<uniqueid name="id" value="1073742243" />
 					</template_reference>
 				</list>
 			</group>
@@ -837,7 +837,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743650" />
+						<uniqueid name="id" value="1073742244" />
 					</template_reference>
 				</list>
 			</group>
@@ -1067,10 +1067,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743651" />
+							<uniqueid name="id" value="1073742245" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743652" />
+					<uniqueid name="id" value="1073742246" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 			</list>

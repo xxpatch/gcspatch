@@ -44,7 +44,7 @@
 		<list name="actions">
 			<template_reference name="action" value="action\change_combat_facing_action">
 				<bool name="force_facing_combat_target" value="True" />
-				<uniqueid name="id" value="1073743712" />
+				<uniqueid name="id" value="1073741828" />
 			</template_reference>
 			<template_reference name="action" value="action\change_target_action">
 				<list name="actions">
@@ -62,11 +62,11 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\auto_target_enable_weapon_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743713" />
+						<uniqueid name="id" value="1073741829" />
 					</template_reference>
 				</list>
 				<enum name="change_target_type" value="entities" />
-				<uniqueid name="id" value="1073743714" />
+				<uniqueid name="id" value="1073741830" />
 			</template_reference>
 		</list>
 		<list name="requirements">

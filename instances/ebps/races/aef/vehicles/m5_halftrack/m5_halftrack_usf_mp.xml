@@ -73,10 +73,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\weapon_suppression_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743343" />
+							<uniqueid name="id" value="1073741870" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743344" />
+					<uniqueid name="id" value="1073741871" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -87,7 +87,7 @@
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
-					<uniqueid name="id" value="1073743345" />
+					<uniqueid name="id" value="1073741879" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -633,7 +633,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743346" />
+						<uniqueid name="id" value="1073741872" />
 					</template_reference>
 				</list>
 			</group>
@@ -651,7 +651,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743347" />
+						<uniqueid name="id" value="1073741873" />
 					</template_reference>
 				</list>
 			</group>
@@ -669,7 +669,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743348" />
+						<uniqueid name="id" value="1073741874" />
 					</template_reference>
 				</list>
 			</group>
@@ -687,7 +687,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743349" />
+						<uniqueid name="id" value="1073741875" />
 					</template_reference>
 				</list>
 			</group>
@@ -705,7 +705,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743350" />
+						<uniqueid name="id" value="1073741876" />
 					</template_reference>
 				</list>
 			</group>
@@ -733,7 +733,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073743351" />
+						<uniqueid name="id" value="1073741877" />
 					</template_reference>
 				</list>
 			</group>
@@ -1143,7 +1143,7 @@
 					<string name="state_machine_name" value="Garrisoned_State" />
 					<string name="undo_action_state_name" value="Unloaded" />
 					<bool name="retrigger" value="False" />
-					<uniqueid name="id" value="1073743352" />
+					<uniqueid name="id" value="1073741878" />
 				</template_reference>
 			</list>
 			<list name="on_loading_modifiers">

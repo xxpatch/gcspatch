@@ -82,7 +82,7 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\reload_weapon_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743544" />
+							<uniqueid name="id" value="1073742269" />
 						</template_reference>
 						<template_reference name="action" value="action\apply_deformation_action">
 							<group name="deform_decal">
