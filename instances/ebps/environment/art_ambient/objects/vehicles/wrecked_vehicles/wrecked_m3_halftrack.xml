@@ -245,13 +245,13 @@
 					<bool name="set" value="True" />
 					<bool name="cause_criticals" value="False" />
 					<enum name="crit_weapon_type" value="small_arms" />
-					<uniqueid name="id" value="1073742019" />
+					<uniqueid name="id" value="1073743300" />
 				</template_reference>
 				<template_reference name="action" value="action\upgrade_add">
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\wreck_smoke" />
-					<uniqueid name="id" value="1073742020" />
+					<uniqueid name="id" value="1073743301" />
 				</template_reference>
 				<template_reference name="action" value="action\timed_action">
 					<float name="duration" value="20" />
@@ -269,10 +269,10 @@
 								<enum name="unit_type" value="infantry" />
 							</template_reference>
 							<bool name="permanent" value="False" />
-							<uniqueid name="id" value="1073742021" />
+							<uniqueid name="id" value="1073743302" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742022" />
+					<uniqueid name="id" value="1073743303" />
 				</template_reference>
 			</list>
 		</template_reference>

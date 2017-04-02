@@ -347,7 +347,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742027" />
+						<uniqueid name="id" value="1073743569" />
 					</template_reference>
 				</list>
 			</group>
@@ -365,7 +365,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742028" />
+						<uniqueid name="id" value="1073743570" />
 					</template_reference>
 				</list>
 			</group>
@@ -383,7 +383,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742029" />
+						<uniqueid name="id" value="1073743571" />
 					</template_reference>
 				</list>
 			</group>
@@ -401,7 +401,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742030" />
+						<uniqueid name="id" value="1073743572" />
 					</template_reference>
 				</list>
 			</group>
@@ -419,7 +419,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742031" />
+						<uniqueid name="id" value="1073743573" />
 					</template_reference>
 				</list>
 			</group>
@@ -447,7 +447,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742032" />
+						<uniqueid name="id" value="1073743574" />
 					</template_reference>
 				</list>
 			</group>
@@ -581,10 +581,10 @@
 						<template_reference name="action" value="action\upgrade_remove">
 							<bool name="apply_to_entities_in_squad" value="True" />
 							<instance_reference name="upgrade" value="upgrade\german\commander\ability\camouflage_net_activated" />
-							<uniqueid name="id" value="1073742033" />
+							<uniqueid name="id" value="1073743575" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742034" />
+					<uniqueid name="id" value="1073743576" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -651,7 +651,7 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\damage_weapon_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073742035" />
+							<uniqueid name="id" value="1073743577" />
 						</template_reference>
 						<template_reference name="action" value="action\change_target_action">
 							<list name="actions">
@@ -665,17 +665,17 @@
 											<bool name="retrigger" value="True" />
 											<string name="state_machine_name" value="ability_attack_buff_state" />
 											<string name="undo_action_state_name" value="off" />
-											<uniqueid name="id" value="1073742036" />
+											<uniqueid name="id" value="1073743578" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073742037" />
+									<uniqueid name="id" value="1073743579" />
 								</template_reference>
 							</list>
 							<enum name="change_target_type" value="squad" />
-							<uniqueid name="id" value="1073742038" />
+							<uniqueid name="id" value="1073743580" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742039" />
+					<uniqueid name="id" value="1073743581" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -716,7 +716,7 @@
 				<template_reference name="action" value="action\retreat_action">
 					<instance_reference name="entity_type_to_retreat_to" value="" />
 					<enum name="retreat_type" value="withdraw_to_edge" />
-					<uniqueid name="id" value="1073742040" />
+					<uniqueid name="id" value="1073743582" />
 					<float name="refund_percent_after_retreat" value="0" />
 				</template_reference>
 				<template_reference name="action" value="action\apply_modifiers_action">
@@ -733,7 +733,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\sight_radius_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742041" />
+					<uniqueid name="id" value="1073743583" />
 				</template_reference>
 			</list>
 			<list name="role_list">
@@ -757,7 +757,7 @@
 				<template_reference name="action" value="action\upgrade_remove">
 					<bool name="apply_to_entities_in_squad" value="False" />
 					<instance_reference name="upgrade" value="upgrade\is_manned" />
-					<uniqueid name="id" value="1073742042" />
+					<uniqueid name="id" value="1073743584" />
 				</template_reference>
 			</list>
 		</template_reference>

@@ -28,13 +28,13 @@
 					<bool name="retrigger" value="False" />
 					<string name="state_machine_name" value="canopy_visibile" />
 					<string name="undo_action_state_name" value="" />
-					<uniqueid name="id" value="1073741831" />
+					<uniqueid name="id" value="1073743304" />
 				</template_reference>
 				<template_reference name="action" value="action\upgrade_add">
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
-					<uniqueid name="id" value="1073741850" />
+					<uniqueid name="id" value="1073743305" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -991,7 +991,7 @@
 					<bool name="apply_removal" value="False" />
 					<string name="crew_name" value="Gunner" />
 					<bool name="kill" value="False" />
-					<uniqueid name="id" value="1073741832" />
+					<uniqueid name="id" value="1073743306" />
 				</template_reference>
 				<template_reference name="action" value="action\apply_modifiers_action">
 					<float name="duration" value="0" />
@@ -1016,7 +1016,7 @@
 							<instance_reference name="target_type_name" value="" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741833" />
+					<uniqueid name="id" value="1073743307" />
 				</template_reference>
 			</list>
 			<list name="on_loading_modifiers">
@@ -1054,7 +1054,7 @@
 							<instance_reference name="target_type_name" value="" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741834" />
+					<uniqueid name="id" value="1073743308" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -1135,7 +1135,7 @@
 													<template_reference name="action" value="action\remove_weapon">
 														<bool name="fire_and_forget" value="False" />
 														<float name="hardpoint" value="1" />
-														<uniqueid name="id" value="1073741835" />
+														<uniqueid name="id" value="1073743309" />
 													</template_reference>
 													<template_reference name="action" value="action\add_weapon">
 														<float name="hardpoint" value="1" />
@@ -1154,19 +1154,19 @@
 															<enum name="type" value="default" />
 															<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_mg42_vehicle_mp" />
 														</group>
-														<uniqueid name="id" value="1073741836" />
+														<uniqueid name="id" value="1073743310" />
 													</template_reference>
 													<template_reference name="action" value="action\change_weapon">
 														<float name="hardpoint" value="1" />
 														<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\halftrack_mg42_vehicle_mp" />
-														<uniqueid name="id" value="1073741837" />
+														<uniqueid name="id" value="1073743311" />
 													</template_reference>
 												</list>
 												<enum name="change_target_type" value="self" />
-												<uniqueid name="id" value="1073741838" />
+												<uniqueid name="id" value="1073743312" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073741839" />
+										<uniqueid name="id" value="1073743313" />
 										<bool name="fire_and_forget_non_global" value="False" />
 										<template_reference name="ui_help_text" value="tables\help_text_phrase">
 											<int name="phrase_order" value="0" />
@@ -1198,7 +1198,7 @@
 													<template_reference name="action" value="action\remove_weapon">
 														<bool name="fire_and_forget" value="False" />
 														<float name="hardpoint" value="1" />
-														<uniqueid name="id" value="1073741840" />
+														<uniqueid name="id" value="1073743314" />
 													</template_reference>
 													<template_reference name="action" value="action\add_weapon">
 														<float name="hardpoint" value="1" />
@@ -1217,19 +1217,19 @@
 															<enum name="type" value="default" />
 															<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m2hb_50cal_mp" />
 														</group>
-														<uniqueid name="id" value="1073741841" />
+														<uniqueid name="id" value="1073743315" />
 													</template_reference>
 													<template_reference name="action" value="action\change_weapon">
 														<float name="hardpoint" value="1" />
 														<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m2hb_50cal_mp" />
-														<uniqueid name="id" value="1073741842" />
+														<uniqueid name="id" value="1073743316" />
 													</template_reference>
 												</list>
 												<enum name="change_target_type" value="self" />
-												<uniqueid name="id" value="1073741843" />
+												<uniqueid name="id" value="1073743317" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073741844" />
+										<uniqueid name="id" value="1073743318" />
 										<bool name="fire_and_forget_non_global" value="False" />
 										<template_reference name="ui_help_text" value="tables\help_text_phrase">
 											<int name="phrase_order" value="0" />
@@ -1237,7 +1237,7 @@
 										</template_reference>
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073741845" />
+								<uniqueid name="id" value="1073743319" />
 								<bool name="fire_and_forget_non_global" value="False" />
 								<template_reference name="ui_help_text" value="tables\help_text_phrase">
 									<int name="phrase_order" value="0" />
@@ -1267,7 +1267,7 @@
 										<instance_reference name="tooltip" value="modifier_tooltip\capture_enable_squad_modifier" />
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073741846" />
+								<uniqueid name="id" value="1073743320" />
 							</template_reference>
 						</list>
 						<float name="driver_death_chance_on_entity_death" value="1" />
@@ -1324,15 +1324,15 @@
 											<enum name="type" value="default" />
 											<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m1917_30cal_mp" />
 										</group>
-										<uniqueid name="id" value="1073741847" />
+										<uniqueid name="id" value="1073743321" />
 									</template_reference>
 									<template_reference name="action" value="action\change_weapon">
 										<float name="hardpoint" value="1" />
 										<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m1917_30cal_mp" />
-										<uniqueid name="id" value="1073741848" />
+										<uniqueid name="id" value="1073743322" />
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073741849" />
+								<uniqueid name="id" value="1073743323" />
 								<bool name="fire_and_forget_non_global" value="False" />
 								<template_reference name="ui_help_text" value="tables\help_text_phrase">
 									<int name="phrase_order" value="0" />

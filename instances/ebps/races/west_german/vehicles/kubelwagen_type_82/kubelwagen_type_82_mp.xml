@@ -85,7 +85,7 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\health_regeneration_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741993" />
+							<uniqueid name="id" value="1073743627" />
 						</template_reference>
 						<template_reference name="action" value="action\animator_set_state">
 							<bool name="apply_to_leader_only" value="False" />
@@ -93,10 +93,10 @@
 							<bool name="retrigger" value="False" />
 							<string name="state_machine_name" value="ability_repair_state" />
 							<string name="undo_action_state_name" value="off" />
-							<uniqueid name="id" value="1073741994" />
+							<uniqueid name="id" value="1073743628" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741995" />
+					<uniqueid name="id" value="1073743629" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -107,7 +107,7 @@
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
-					<uniqueid name="id" value="1073742000" />
+					<uniqueid name="id" value="1073743630" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -191,17 +191,17 @@
 										<template_reference name="action" value="action\upgrade_remove">
 											<bool name="apply_to_entities_in_squad" value="False" />
 											<instance_reference name="upgrade" value="upgrade\west_german\items\resource_point_siphon" />
-											<uniqueid name="id" value="1073741996" />
+											<uniqueid name="id" value="1073743631" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073741997" />
+									<uniqueid name="id" value="1073743632" />
 									<bool name="any_subaction" value="False" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741998" />
+							<uniqueid name="id" value="1073743633" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741999" />
+					<uniqueid name="id" value="1073743634" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />

@@ -237,7 +237,7 @@
 			<list name="actions">
 				<template_reference name="action" value="action\animator_set_event">
 					<string name="event_name" value="fake_wreck" />
-					<uniqueid name="id" value="1073742023" />
+					<uniqueid name="id" value="1073743295" />
 				</template_reference>
 				<template_reference name="action" value="action\damage">
 					<float name="damage" value="0.5" />
@@ -245,13 +245,13 @@
 					<bool name="set" value="True" />
 					<bool name="cause_criticals" value="False" />
 					<enum name="crit_weapon_type" value="small_arms" />
-					<uniqueid name="id" value="1073742024" />
+					<uniqueid name="id" value="1073743296" />
 				</template_reference>
 				<template_reference name="action" value="action\upgrade_add">
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\wreck_smoke" />
-					<uniqueid name="id" value="1073742025" />
+					<uniqueid name="id" value="1073743297" />
 				</template_reference>
 				<template_reference name="action" value="action\timed_action">
 					<float name="duration" value="20" />
@@ -269,7 +269,7 @@
 								<enum name="unit_type" value="infantry" />
 							</template_reference>
 							<bool name="permanent" value="False" />
-							<uniqueid name="id" value="1073742026" />
+							<uniqueid name="id" value="1073743298" />
 						</template_reference>
 					</list>
 					<uniqueid name="id" value="1073742027" />

@@ -40,7 +40,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\capture_enable_squad_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742093" />
+					<uniqueid name="id" value="1073743675" />
 				</template_reference>
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
@@ -86,10 +86,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\weapon_scatter" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073742094" />
+							<uniqueid name="id" value="1073743676" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742095" />
+					<uniqueid name="id" value="1073743677" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -99,7 +99,7 @@
 				<template_reference name="action" value="action\remove_crew_action">
 					<string name="crew_name" value="spotter" />
 					<bool name="kill" value="False" />
-					<uniqueid name="id" value="1073742096" />
+					<uniqueid name="id" value="1073743678" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -679,7 +679,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742097" />
+						<uniqueid name="id" value="1073743679" />
 					</template_reference>
 				</list>
 			</group>
@@ -697,7 +697,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742098" />
+						<uniqueid name="id" value="1073743680" />
 					</template_reference>
 				</list>
 			</group>
@@ -715,7 +715,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742099" />
+						<uniqueid name="id" value="1073743681" />
 					</template_reference>
 				</list>
 			</group>
@@ -733,7 +733,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742100" />
+						<uniqueid name="id" value="1073743682" />
 					</template_reference>
 				</list>
 			</group>
@@ -751,7 +751,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742101" />
+						<uniqueid name="id" value="1073743683" />
 					</template_reference>
 				</list>
 			</group>
@@ -779,7 +779,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742102" />
+						<uniqueid name="id" value="1073743684" />
 					</template_reference>
 				</list>
 			</group>
@@ -811,7 +811,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742103" />
+						<uniqueid name="id" value="1073743685" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -829,7 +829,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742104" />
+						<uniqueid name="id" value="1073743686" />
 					</template_reference>
 				</list>
 				<group name="posture">

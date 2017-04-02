@@ -66,15 +66,15 @@
 					<float name="offset_scale_x" value="1.5" />
 					<float name="offset_scale_y" value="1.5" />
 					<float name="offset_scale_z" value="1.5" />
-					<uniqueid name="id" value="1073741897" />
+					<uniqueid name="id" value="1073743382" />
 				</template_reference>
 				<template_reference name="action" value="action\scar_function_call">
 					<string name="function_name" value="AE_Armor_Command_DeSpawn_LMG_Rack" />
-					<uniqueid name="id" value="1073741898" />
+					<uniqueid name="id" value="1073743383" />
 				</template_reference>
 				<template_reference name="action" value="action\scar_function_call">
 					<string name="function_name" value="AE_Armor_Command_DeSpawn_AT_Rack" />
-					<uniqueid name="id" value="1073741899" />
+					<uniqueid name="id" value="1073743384" />
 				</template_reference>
 				<template_reference name="action" value="action\timed_action">
 					<float name="duration" value="1" />
@@ -106,13 +106,13 @@
 										<template_reference name="action" value="action\upgrade_remove">
 											<bool name="apply_to_entities_in_squad" value="False" />
 											<instance_reference name="upgrade" value="upgrade\british\commander\passive\command_vehicle_active_player" />
-											<uniqueid name="id" value="1073741900" />
+											<uniqueid name="id" value="1073743385" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073741901" />
+									<uniqueid name="id" value="1073743386" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741902" />
+							<uniqueid name="id" value="1073743387" />
 							<bool name="fire_and_forget_non_global" value="False" />
 							<template_reference name="ui_help_text" value="tables\help_text_phrase">
 								<int name="phrase_order" value="0" />
@@ -120,7 +120,7 @@
 							</template_reference>
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741903" />
+					<uniqueid name="id" value="1073743388" />
 				</template_reference>
 			</list>
 			<float name="armor" value="10" />
@@ -600,7 +600,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073741904" />
+						<uniqueid name="id" value="1073743389" />
 					</template_reference>
 				</list>
 				<float name="speed_multiplier" value="0.8" />
@@ -618,7 +618,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073741905" />
+						<uniqueid name="id" value="1073743390" />
 					</template_reference>
 				</list>
 				<float name="speed_multiplier" value="0.9" />
@@ -637,7 +637,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073741906" />
+						<uniqueid name="id" value="1073743391" />
 					</template_reference>
 				</list>
 			</group>
@@ -655,7 +655,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073741907" />
+						<uniqueid name="id" value="1073743392" />
 					</template_reference>
 				</list>
 			</group>
@@ -673,7 +673,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073741908" />
+						<uniqueid name="id" value="1073743393" />
 					</template_reference>
 				</list>
 			</group>
@@ -701,7 +701,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073741909" />
+						<uniqueid name="id" value="1073743394" />
 					</template_reference>
 				</list>
 			</group>
@@ -733,7 +733,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073741910" />
+						<uniqueid name="id" value="1073743395" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -751,7 +751,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073741911" />
+						<uniqueid name="id" value="1073743396" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -1323,10 +1323,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741912" />
+							<uniqueid name="id" value="1073743397" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741913" />
+					<uniqueid name="id" value="1073743398" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 			</list>
@@ -1353,10 +1353,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741914" />
+							<uniqueid name="id" value="1073743399" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741915" />
+					<uniqueid name="id" value="1073743400" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 			</list>
@@ -1479,7 +1479,7 @@
 					<string name="state_machine_name" value="garrison_state" />
 					<string name="undo_action_state_name" value="Unloaded" />
 					<bool name="retrigger" value="False" />
-					<uniqueid name="id" value="1073741916" />
+					<uniqueid name="id" value="1073743401" />
 				</template_reference>
 			</list>
 			<list name="on_loading_modifiers">
@@ -1504,7 +1504,7 @@
 			</list>
 			<list name="on_loaded_squad_actions">
 				<template_reference name="action" value="action\additional_crew_action">
-					<uniqueid name="id" value="1073741917" />
+					<uniqueid name="id" value="1073743402" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -1516,13 +1516,13 @@
 				<template_reference name="action" value="action\remove_crew_action">
 					<string name="crew_name" value="Gunner" />
 					<bool name="kill" value="False" />
-					<uniqueid name="id" value="1073741918" />
+					<uniqueid name="id" value="1073743403" />
 				</template_reference>
 				<template_reference name="action" value="action\upgrade_add">
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
-					<uniqueid name="id" value="1073741919" />
+					<uniqueid name="id" value="1073743404" />
 				</template_reference>
 			</list>
 		</template_reference>
