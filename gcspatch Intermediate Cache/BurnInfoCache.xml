@@ -43,7 +43,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\german\timed_ability\command_panther_mark_target.xml</FileName>
-			<FileHash>d7983604fe2d51b052f4c77506c3c8ca</FileHash>
+			<FileHash>e399e5cb1c31fc2582589895af6303c1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\german\toggle_ability\handbrake_mode_new_mp.xml</FileName>
@@ -755,7 +755,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\panther_sdkfz_171\panther_sdkfz_171_commander_mp.xml</FileName>
-			<FileHash>3d03b4b3c253446ef5b7e259e4656f17</FileHash>
+			<FileHash>0c9235f14bd6f48aa1bf00fdd72c0c95</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\panther_sdkfz_171_ausf_g\panther_sdkfz_171_ausf_g_mp.xml</FileName>
@@ -848,6 +848,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\maxim_m1910_hmg_mp.xml</FileName>
 			<FileHash>a3b3a2c94d01bace1eaff6b8ed191746</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\west_german\ballistic_weapon\tank_gun\wg_panther_75mm_commander_mp.xml</FileName>
+			<FileHash>6778d2d34b987025d40efadfb203e897</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\locale\english\english.ucs</FileName>
