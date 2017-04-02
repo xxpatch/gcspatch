@@ -26,7 +26,7 @@
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
-					<uniqueid name="id" value="1073741936" />
+					<uniqueid name="id" value="1073743545" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -1071,7 +1071,7 @@
 					<bool name="apply_removal" value="False" />
 					<string name="crew_name" value="Gunner" />
 					<bool name="kill" value="False" />
-					<uniqueid name="id" value="1073741934" />
+					<uniqueid name="id" value="1073743546" />
 				</template_reference>
 				<template_reference name="action" value="action\apply_modifiers_action">
 					<float name="duration" value="0" />
@@ -1087,7 +1087,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\enable_weapon_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741935" />
+					<uniqueid name="id" value="1073743547" />
 				</template_reference>
 			</list>
 			<list name="on_loading_modifiers">

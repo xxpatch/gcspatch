@@ -28,7 +28,7 @@
 					<bool name="retrigger" value="False" />
 					<string name="state_machine_name" value="variant" />
 					<string name="undo_action_state_name" value="" />
-					<uniqueid name="id" value="1073741981" />
+					<uniqueid name="id" value="1073743353" />
 				</template_reference>
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
@@ -74,10 +74,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\weapon_scatter" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741982" />
+							<uniqueid name="id" value="1073743354" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741983" />
+					<uniqueid name="id" value="1073743355" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -88,7 +88,7 @@
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
-					<uniqueid name="id" value="1073741992" />
+					<uniqueid name="id" value="1073743356" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -158,13 +158,13 @@
 										<template_reference name="action" value="action\upgrade_remove">
 											<bool name="apply_to_entities_in_squad" value="False" />
 											<instance_reference name="upgrade" value="upgrade\british\commander\passive\command_vehicle_active_player" />
-											<uniqueid name="id" value="1073741984" />
+											<uniqueid name="id" value="1073743357" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073741985" />
+									<uniqueid name="id" value="1073743358" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741986" />
+							<uniqueid name="id" value="1073743359" />
 							<bool name="fire_and_forget_non_global" value="False" />
 							<template_reference name="ui_help_text" value="tables\help_text_phrase">
 								<int name="phrase_order" value="0" />
@@ -172,7 +172,7 @@
 							</template_reference>
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741987" />
+					<uniqueid name="id" value="1073743360" />
 				</template_reference>
 			</list>
 			<float name="armor" value="240" />
@@ -900,10 +900,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741988" />
+							<uniqueid name="id" value="1073743361" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741989" />
+					<uniqueid name="id" value="1073743362" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 			</list>
@@ -930,10 +930,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073741990" />
+							<uniqueid name="id" value="1073743363" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741991" />
+					<uniqueid name="id" value="1073743364" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 			</list>

@@ -320,7 +320,7 @@
 							<bool name="retrigger" value="False" />
 							<string name="state_machine_name" value="smoke_drag" />
 							<string name="undo_action_state_name" value="off" />
-							<uniqueid name="id" value="1073743295" />
+							<uniqueid name="id" value="1073743715" />
 						</template_reference>
 					</list>
 					<uniqueid name="id" value="1073743021" />
