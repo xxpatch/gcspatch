@@ -59,7 +59,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\west_german\modal_ability\dispatch_ability\command_panther.xml</FileName>
-			<FileHash>f2a16c5958bd2805a58cb379c4d1b784</FileHash>
+			<FileHash>b60fc0f3c2a34043c9709fe4cbe20989</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\west_german\modal_ability\dispatch_ability\king_tiger_dispatch.xml</FileName>
+			<FileHash>9e5d8cd14f9f4fc86c52fdb660d604b7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\west_german\toggle_ability\luchs_hold_fire_mp.xml</FileName>
