@@ -191,7 +191,7 @@
 				</template_reference>
 			</list>
 			<float name="armor" value="290" />
-			<float name="rear_armor" value="130" />
+			<float name="rear_armor" value="110" />
 			<float name="target_size" value="22" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">
