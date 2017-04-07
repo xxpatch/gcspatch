@@ -12,6 +12,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\commander_ability\artillery_cover.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\modal_ability\repair_ability\brit_repair_ews_ability_sappers_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\tune_up_bonus_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\british\timed_ability\commander_ability\reinforce_the_front.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\timed_ability\command_panther_mark_target.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\toggle_ability\handbrake_mode_new_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\dispatch\sherman_soviet_dispatch.rgd
