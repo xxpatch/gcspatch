@@ -479,7 +479,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\vehicles\m10_tank_destroyer\m10_tank_destroyer_mp.xml</FileName>
-			<FileHash>5f18e51a61c71c70a89ebf18551634ed</FileHash>
+			<FileHash>1fdaa801a3a00271140fb5b0c11657d9</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\vehicles\m26_pershing\m26_pershing_mp.xml</FileName>
@@ -836,6 +836,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\british\items\sapper_flamethrower.xml</FileName>
 			<FileHash>ee89f540efb3a6e8b837149d25358cc8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\aef\ballistic_weapon\tank_gun\m10_m5_3inch_ap_gun_mp.xml</FileName>
+			<FileHash>cdd7b05c9ed714497bc0593cf0deab76</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\aef\ballistic_weapon\tank_gun\m10_m5_3inch_gun_mp.xml</FileName>
+			<FileHash>0112bb87a012e9d262e15f4d1e552424</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\ballistic_weapon\tank_gun\aec_tread_shot_mp.xml</FileName>
