@@ -62,41 +62,47 @@
 						<locstring name="phrase" value="0" />
 					</template_reference>
 				</template_reference>
-			</list>
-			<list name="start_target_actions">
-				<template_reference name="action" value="action\apply_modifiers_action">
-					<float name="duration" value="0" />
-					<bool name="permanent" value="False" />
-					<list name="modifiers">
-						<template_reference name="modifier" value="modifiers\auto_target_enable_weapon_modifier">
-							<enum name="application_type" value="apply_to_weapon" />
-							<bool name="exclusive" value="False" />
-							<string name="modifier_id" value="" />
-							<string name="target_type_name" value="hardpoint_01" />
-							<enum name="usage_type" value="enable" />
-							<float name="value" value="-1" />
-							<instance_reference name="tooltip" value="modifier_tooltip\auto_target_enable_weapon_modifier" />
+				<template_reference name="action" value="action\change_target_action">
+					<list name="actions">
+						<template_reference name="action" value="action\apply_modifiers_action">
+							<float name="duration" value="0" />
+							<bool name="permanent" value="False" />
+							<list name="modifiers">
+								<template_reference name="modifier" value="modifiers\auto_target_enable_weapon_modifier">
+									<enum name="application_type" value="apply_to_weapon" />
+									<bool name="exclusive" value="False" />
+									<string name="modifier_id" value="" />
+									<string name="target_type_name" value="hardpoint_01" />
+									<enum name="usage_type" value="enable" />
+									<float name="value" value="-1" />
+									<instance_reference name="tooltip" value="modifier_tooltip\auto_target_enable_weapon_modifier" />
+								</template_reference>
+								<template_reference name="modifier" value="modifiers\auto_target_enable_weapon_modifier">
+									<enum name="application_type" value="apply_to_weapon" />
+									<bool name="exclusive" value="False" />
+									<string name="modifier_id" value="" />
+									<string name="target_type_name" value="hardpoint_02" />
+									<enum name="usage_type" value="enable" />
+									<float name="value" value="-1" />
+									<instance_reference name="tooltip" value="modifier_tooltip\auto_target_enable_weapon_modifier" />
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073743866" />
 						</template_reference>
-						<template_reference name="modifier" value="modifiers\auto_target_enable_weapon_modifier">
-							<enum name="application_type" value="apply_to_weapon" />
-							<bool name="exclusive" value="False" />
-							<string name="modifier_id" value="" />
-							<string name="target_type_name" value="hardpoint_02" />
-							<enum name="usage_type" value="enable" />
-							<float name="value" value="-1" />
-							<instance_reference name="tooltip" value="modifier_tooltip\auto_target_enable_weapon_modifier" />
+						<template_reference name="action" value="action\cancel_forced_attack">
+							<uniqueid name="id" value="1073743864" />
+							<enum name="stop_command" value="attack_stop" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742832" />
+					<enum name="change_target_type" value="entities" />
+					<uniqueid name="id" value="1073743865" />
 				</template_reference>
-				<template_reference name="action" value="action\cancel_forced_attack">
-					<uniqueid name="id" value="1073742833" />
-					<enum name="stop_command" value="attack_stop" />
-				</template_reference>
+			</list>
+			<list name="start_target_actions">
 			</list>
 		</group>
 		<enum name="activation" value="toggle" />
-		<bool name="can_interrupt" value="True" />
+		<bool name="can_interrupt" value="False" />
 		<bool name="can_target_in_fow" value="False" />
 		<float name="caster_close_in_distance" value="2" />
 		<bool name="casters_can_evacuate" value="False" />
@@ -112,7 +118,7 @@
 		<float name="cursor_ghost_blueprint_angle" value="0" />
 		<bool name="disable_combat" value="False" />
 		<bool name="disable_when_active" value="False" />
-		<float name="duration_time" value="3" />
+		<float name="duration_time" value="-1" />
 		<bool name="enable_in_building" value="False" />
 		<bool name="enable_in_vehicle" value="False" />
 		<bool name="engage_combat" value="False" />
@@ -123,7 +129,7 @@
 		<bool name="fire_and_forget" value="False" />
 		<bool name="garrison_target" value="False" />
 		<bool name="has_speech_code" value="True" />
-		<float name="initial_delay_time" value="10" />
+		<float name="initial_delay_time" value="0" />
 		<bool name="initial_recharge" value="False" />
 		<bool name="is_default_action" value="False" />
 		<bool name="move_back" value="False" />
@@ -131,7 +137,7 @@
 		<float name="range" value="0" />
 		<bool name="range_ignore" value="True" />
 		<float name="recharge_time" value="0" />
-		<bool name="refundable" value="True" />
+		<bool name="refundable" value="False" />
 		<bool name="require_no_shot_block" value="False" />
 		<enum name="shared_timer" value="" />
 		<bool name="shared_timer_player_wide" value="False" />
