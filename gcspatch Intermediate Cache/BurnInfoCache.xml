@@ -67,7 +67,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\timed_ability\maxim_sustained_fire_mp.xml</FileName>
-			<FileHash>8eed8ceb9f9b4c5fe06a51418f47c635</FileHash>
+			<FileHash>45ea277c560b17b007616f04904328d2</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.xml</FileName>
@@ -686,6 +686,10 @@
 			<FileHash>22f850550d4b17e40469dc5707c852e6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\soviet\buildings\base_building\tank_depot_mp.xml</FileName>
+			<FileHash>c841a437f9afad8adaf808aff0466264</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\soviet\soldiers\weapon_crew\maxim_weapon_crew_mp.xml</FileName>
 			<FileHash>1827c68a22bc5d41e4e0043fc0549c4e</FileHash>
 		</BurnInfo>
@@ -866,6 +870,10 @@
 			<FileHash>aefc8f837a743adc7ac744c27f4db0e0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\soviet\research\soviet_t4_built_mp.xml</FileName>
+			<FileHash>c4b3c75b41eda42bc6d7001f0f95fa77</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\aef\ballistic_weapon\tank_gun\m10_m5_3inch_ap_gun_mp.xml</FileName>
 			<FileHash>cdd7b05c9ed714497bc0593cf0deab76</FileHash>
 		</BurnInfo>
@@ -915,7 +923,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\locale\english\english.ucs</FileName>
-			<FileHash>98c55fadc3a4ca7ebb6da711ce9f28a3</FileHash>
+			<FileHash>4777980c5a17e7dfddc67efc22168ce8</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\info\5033e4d0b19248adb24f3b5cd211ee2b.info</FileName>
