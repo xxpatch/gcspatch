@@ -58,6 +58,14 @@
 			<FileHash>5794ed40b150e9514c2ccedc7d3ba291</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_homing_mp.xml</FileName>
+			<FileHash>8fd1f4b40484720110f2d37c38727e8e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp.xml</FileName>
+			<FileHash>a7d0dff8adc00c9496bc2343e854045b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\timed_ability\maxim_sustained_fire_mp.xml</FileName>
 			<FileHash>527f7adb21b16758ea0f71db7e1e3f76</FileHash>
 		</BurnInfo>
@@ -215,7 +223,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_halftrack_sdkfz_251_17_flak.xml</FileName>
-			<FileHash>4010c4debdf37fdd191eec0aa3137f5b</FileHash>
+			<FileHash>ced8772a6044970fef090e7fbba36400</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_halftrack_sdkfz_251_infrared.xml</FileName>
@@ -759,7 +767,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
-			<FileHash>250bb9498269adc4f886ec2ca653d42c</FileHash>
+			<FileHash>31bd2260654e3864c38758a848f4fdd1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\hetzer\hetzer_mp.xml</FileName>
@@ -794,10 +802,6 @@
 			<FileHash>67d9ba4eeea28ac97878cd6b5a88e5cb</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
-			<FileHash>e6645fb408911394d89d1d4703e30033</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\west_german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_mp.xml</FileName>
 			<FileHash>75130bc6669525ca7683e53503b8f1d4</FileHash>
 		</BurnInfo>
@@ -826,6 +830,14 @@
 			<FileHash>95382084be1efc41f6939c23e9c87fb5</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp.xml</FileName>
+			<FileHash>54135fc5fb3be431695c52321bac280e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_17_flak_halftrack_squad_mp.xml</FileName>
+			<FileHash>6d9fd97b3b533f5f316d31f25a97485c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\slot_item\aef\flame_weapon\assault_engineer_flamethrower.xml</FileName>
 			<FileHash>9a51ef4edf95ffafe6e9cb2ba46d7d20</FileHash>
 		</BurnInfo>
@@ -844,6 +856,14 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\british\items\sapper_flamethrower.xml</FileName>
 			<FileHash>ee89f540efb3a6e8b837149d25358cc8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\intel_bulletins\content_update\soviet\infantry\penal_satchel_range.xml</FileName>
+			<FileHash>dc80cdc51242f60b0d838d50da29156b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\intel_bulletins\infantry\penal\ability_cost_penal.xml</FileName>
+			<FileHash>aefc8f837a743adc7ac744c27f4db0e0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\aef\ballistic_weapon\tank_gun\m10_m5_3inch_ap_gun_mp.xml</FileName>
@@ -895,7 +915,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\locale\english\english.ucs</FileName>
-			<FileHash>b779efb2eb3fd264508658032b338f50</FileHash>
+			<FileHash>98c55fadc3a4ca7ebb6da711ce9f28a3</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\info\5033e4d0b19248adb24f3b5cd211ee2b.info</FileName>

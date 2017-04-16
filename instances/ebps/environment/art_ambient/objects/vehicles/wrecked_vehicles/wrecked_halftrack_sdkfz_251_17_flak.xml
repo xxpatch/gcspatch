@@ -124,7 +124,7 @@
 			<bool name="keep_wreck_ownership" value="False" />
 			<bool name="rear_damage_enabled" value="False" />
 			<instance_reference name="rebuilt_entity" value="ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp" />
-			<instance_reference name="rebuilt_squad" value="sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_17_flak_halftrack_squad_mp" />
+			<instance_reference name="rebuilt_squad" value="sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_17_flak_halftrack_squad_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
 			<bool name="rebuilt_use_wreck_owner" value="False" />
 			<bool name="receive_weapon_cover_modifiers" value="True" />
 			<float name="regeneration" value="0" />
