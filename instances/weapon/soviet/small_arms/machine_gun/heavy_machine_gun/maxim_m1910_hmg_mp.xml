@@ -407,9 +407,9 @@
 				<float name="accuracy_multiplier" value="0.5" />
 				<float name="damage_multiplier" value="1" />
 				<float name="penetration_multiplier" value="1" />
-				<float name="suppression_multiplier" value="0.5" />
+				<float name="suppression_multiplier" value="0.65" />
 			</group>
-			<float name="amount" value="5E-05" />
+			<float name="amount" value="6E-05" />
 		</group>
 		<group name="teardown">
 			<float name="duration" value="0" />
