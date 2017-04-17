@@ -2,10 +2,6 @@
 	<group name="ability_bag">
 		<group name="action_list">
 			<list name="end_self_actions">
-				<template_reference name="action" value="action\force_reload_action">
-					<int name="hardpoint_index" value="1" />
-					<uniqueid name="id" value="1073743848" />
-				</template_reference>
 			</list>
 			<list name="end_target_actions">
 			</list>

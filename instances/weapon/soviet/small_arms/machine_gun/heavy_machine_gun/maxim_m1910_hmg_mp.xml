@@ -190,13 +190,13 @@
 				<float name="accuracy_multiplier" value="0.5" />
 				<float name="damage_multiplier" value="0.5" />
 				<float name="penetration_multiplier" value="1" />
-				<float name="suppression_multiplier" value="0.1" />
+				<float name="suppression_multiplier" value="0.2" />
 			</group>
 			<group name="tp_light">
 				<float name="accuracy_multiplier" value="0.5" />
 				<float name="damage_multiplier" value="1" />
 				<float name="penetration_multiplier" value="1" />
-				<float name="suppression_multiplier" value="0.5" />
+				<float name="suppression_multiplier" value="0.75" />
 			</group>
 			<group name="tp_negative">
 				<float name="accuracy_multiplier" value="1.25" />
@@ -395,7 +395,7 @@
 			<float name="suppressed_reload_multiplier" value="1" />
 		</group>
 		<group name="suppression">
-			<float name="nearby_suppression_multiplier" value="0.8" />
+			<float name="nearby_suppression_multiplier" value="1.25" />
 			<float name="nearby_suppression_radius" value="13" />
 			<group name="target_pinned_multipliers">
 				<float name="accuracy_multiplier" value="0.25" />
