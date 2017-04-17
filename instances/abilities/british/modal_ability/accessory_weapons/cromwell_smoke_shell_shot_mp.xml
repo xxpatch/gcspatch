@@ -82,7 +82,7 @@
 		<float name="move_back_distance" value="10" />
 		<float name="range" value="45" />
 		<bool name="range_ignore" value="False" />
-		<float name="recharge_time" value="10" />
+		<float name="recharge_time" value="20" />
 		<bool name="refundable" value="True" />
 		<bool name="require_no_shot_block" value="False" />
 		<enum name="shared_timer" value="generic_unit_shared" />
@@ -129,11 +129,6 @@
 		<list name="global_self_actions">
 		</list>
 		<list name="requirements">
-			<template_reference name="required" value="requirements\required_squad_veterancy">
-				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="11072949" />
-				<float name="veterancy_rank" value="1" />
-			</template_reference>
 			<template_reference name="required" value="requirements\required_weapon_hardpoint">
 				<enum name="reason" value="usage" />
 				<locstring name="ui_name" value="11070979" />

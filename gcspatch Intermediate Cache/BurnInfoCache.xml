@@ -27,7 +27,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\accessory_weapons\cromwell_smoke_shell_shot_mp.xml</FileName>
-			<FileHash>ee8ebd08c74f56da8a3655612952c23e</FileHash>
+			<FileHash>26c21245069439793aeec21b86a73bad</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\british\modal_ability\commander_ability\artillery_cover.xml</FileName>
@@ -831,7 +831,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\british\vehicles\cromwell_squad_mp\cromwell_mk4_75mm_squad_mp.xml</FileName>
-			<FileHash>3d9afe85c3b4c6b83097b46c801bc9ed</FileHash>
+			<FileHash>573d887ef599c5bc712fb415377e33d7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\sbps\races\soviet\soldiers\m1910_maxim_hmg_squad\m1910_maxim_heavy_machine_gun_squad_mp.xml</FileName>
@@ -918,6 +918,46 @@
 			<FileHash>6250b0ff1b83e46b00da33d96cfb35c6</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\aec_coaxial_vehicle_turret_mp.xml</FileName>
+			<FileHash>51c58fa75748a97159ae9668f4ebbaf1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\churchill_hull_defense_left_mp.xml</FileName>
+			<FileHash>95cb92619b5937556ec469e3f5566194</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\churchill_hull_defense_right_mp.xml</FileName>
+			<FileHash>001e1836372296f3d39c9be493ddf641</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\churchill_mk7_coaxial_vehicle_turret_mp.xml</FileName>
+			<FileHash>ce09515d56646e81060c973d6338cb33</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\churchill_mk7_vehicle_hull_mp.xml</FileName>
+			<FileHash>0b0bae293f391b86f893d5e5aa90ed9e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\comet_coaxial_vehicle_turret_mp.xml</FileName>
+			<FileHash>64fbbcb93651e69b3e878dfe836e7431</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\comet_vehicle_hull_gun_mp.xml</FileName>
+			<FileHash>206388122960cfa4f597c4d38fc663bb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\cromwell_coaxial_vehicle_turret_mp.xml</FileName>
+			<FileHash>bd8e5e0b83709c6b726b98167d7524d8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\cromwell_vehicle_hull_mp.xml</FileName>
+			<FileHash>63f0770f4fbb2333a158b11df9a3d0dd</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\british\small_arms\machine_gun\light_machine_gun\sherman_firefly_coaxial_vehicle_turret_mp.xml</FileName>
+			<FileHash>95f2ca992c543a82f7935dd1af48702a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\maxim_m1910_hmg_mp.xml</FileName>
 			<FileHash>5d641f32c58eebe9cd17caf3416687f7</FileHash>
 		</BurnInfo>
@@ -927,7 +967,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\locale\english\english.ucs</FileName>
-			<FileHash>4777980c5a17e7dfddc67efc22168ce8</FileHash>
+			<FileHash>94e6e9693f7070ca0b32ccf54881bc8e</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\info\5033e4d0b19248adb24f3b5cd211ee2b.info</FileName>
