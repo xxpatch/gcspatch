@@ -276,7 +276,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\british\explosive_weapons\light_artillery\land_mattress_60lb_rocket_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
+							<instance_reference name="weapon" value="weapon\british\explosive_weapons\light_artillery\land_mattress_60lb_rocket_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -297,7 +297,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\british\explosive_weapons\light_artillery\land_mattress_phosphorus_rocket_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
+							<instance_reference name="weapon" value="weapon\british\explosive_weapons\light_artillery\land_mattress_phosphorus_rocket_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

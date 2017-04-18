@@ -1225,7 +1225,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp" />
 						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">

@@ -388,7 +388,7 @@
 		</group>
 		<group name="projectile">
 			<bool name="delete_previous_on_hit" value="False" />
-			<instance_reference name="projectile" value="ebps\projectile\offmap_artillery_projectile_heavy_mp" />
+			<instance_reference name="projectile" value="ebps\projectile\offmap_artillery_projectile_heavy_new_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
 		</group>
 		<group name="range">
 			<float name="max" value="250" />
