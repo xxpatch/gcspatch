@@ -215,11 +215,13 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_17_flak_halftrack_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\flame_weapon\assault_engineer_flamethrower.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\ability_lock_out\handbrake_available_upgrade_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\british_tank_commander.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\sappers_minesweeper_upgrade_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\british\items\sapper_flamethrower.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\intel_bulletins\content_update\soviet\infantry\penal_satchel_range.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\intel_bulletins\infantry\penal\ability_cost_penal.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\soviet\research\soviet_t4_built_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\ballistic_weapon\tank_gun\m10_m5_3inch_ap_gun_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\ballistic_weapon\tank_gun\m10_m5_3inch_gun_mp.rgd

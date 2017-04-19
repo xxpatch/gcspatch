@@ -18,6 +18,7 @@
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_disable" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
 				<instance_reference name="ability" value="abilities\german\toggle_ability\handbrake_mode_new_mp" mod="5033e4d0b19248adb24f3b5cd211ee2b" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">

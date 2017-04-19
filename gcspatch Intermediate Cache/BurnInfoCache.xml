@@ -67,7 +67,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\timed_ability\maxim_sustained_fire_mp.xml</FileName>
-			<FileHash>34860f20d98ed1e2095503b41938d865</FileHash>
+			<FileHash>bad1641f0a1bcb1a16b33b6c2fd6a0db</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\abilities\soviet\toggle_ability\commander_ability\at_gun_ambush_tactics.xml</FileName>
@@ -539,7 +539,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.xml</FileName>
-			<FileHash>5228dd2f4fac15fa72ba1209c532944b</FileHash>
+			<FileHash>1cd20727a179fb51a3be309372ea229c</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.xml</FileName>
@@ -735,11 +735,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_assault_mp.xml</FileName>
-			<FileHash>18c2f4cf7b357462710e389f8f7077e4</FileHash>
+			<FileHash>c58260b07bfbd6c1b3927e34662a3724</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\soviet\vehicles\m5_halftrack\m5_halftrack_mp.xml</FileName>
-			<FileHash>42d1dc2521e1079c81696d2b2e3c6430</FileHash>
+			<FileHash>cc0ebc8392833d6eb5eb03c79eb832af</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\races\soviet\vehicles\sherman\sherman_soviet.xml</FileName>
@@ -854,6 +854,10 @@
 			<FileHash>4f54d302c46fee1dbf8d13406e298018</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\aef\items\usf_m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
+			<FileHash>879aa60ca376caa92e10c840dd87e432</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\british\items\british_tank_commander.xml</FileName>
 			<FileHash>234ae2f3fa1d23d761d5ff02f8cb10bf</FileHash>
 		</BurnInfo>
@@ -872,6 +876,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\intel_bulletins\infantry\penal\ability_cost_penal.xml</FileName>
 			<FileHash>aefc8f837a743adc7ac744c27f4db0e0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\soviet\items\m5_halftrack_72k_aa_gun_package_mp.xml</FileName>
+			<FileHash>c344669bd1688c8f3d483cd304b75bea</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\upgrade\soviet\research\soviet_t4_built_mp.xml</FileName>
