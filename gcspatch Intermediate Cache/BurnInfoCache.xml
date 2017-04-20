@@ -142,6 +142,10 @@
 			<FileHash>4649dc186ac50972ffb463c6c3cb7f93</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_british_churchill_avre.xml</FileName>
+			<FileHash>49bb4fe0075a1ac7a4e8b4d93b376630</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_british_churchill_avre_brew_up.xml</FileName>
 			<FileHash>212d3dabc7b5c5adbbb7cf73228db341</FileHash>
 		</BurnInfo>
@@ -239,7 +243,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_halftrack_sdkfz_251_walking_stuka.xml</FileName>
-			<FileHash>f598d6cd1ff4567155de281a961df8fa</FileHash>
+			<FileHash>2a0ca3f85d3c5cdb17251b528850d1a7</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_halftrack_sws.xml</FileName>
@@ -299,15 +303,15 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_kv-1_mp.xml</FileName>
-			<FileHash>a44949d971e9d036dd972264bcf76385</FileHash>
+			<FileHash>b7ae9cce5651f745b6d1047c83942a36</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_kv-2.xml</FileName>
-			<FileHash>bb24728fce8f40e5bdf237d80c85c112</FileHash>
+			<FileHash>20dbf7be9aa4f878f166e44457957d46</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_kv-8.xml</FileName>
-			<FileHash>9d5613f27a1e0c78c056ea045868389e</FileHash>
+			<FileHash>54563eb2a6a28ed656ee86ed3aef926b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_land_mattress.xml</FileName>
@@ -320,6 +324,10 @@
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_m10_brew_up.xml</FileName>
 			<FileHash>5397ccc2e0cff89a3e2b9028720fb0e0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_m15a1_aa_halftrack.xml</FileName>
+			<FileHash>27f0b77919296334b8d04088e780bad0</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_m20_utility_car.xml</FileName>
@@ -479,7 +487,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_t_34_85_red_banner_mp.xml</FileName>
-			<FileHash>53c123f2212dbbac0e5d60e090c3f096</FileHash>
+			<FileHash>25d4bf98fe65e0221476b90d6bafa144</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\instances\ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_wc51.xml</FileName>

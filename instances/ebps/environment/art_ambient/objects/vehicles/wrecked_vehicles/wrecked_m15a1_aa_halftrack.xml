@@ -3,7 +3,7 @@
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
 			<string name="alternate_sua" value="" />
 			<bool name="always_revealed_in_fow" value="True" />
-			<file name="animator" value="armies\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251" />
+			<file name="animator" value="armies\aef\vehicles\m15a1_aa_halftrack\m15a1_aa_halftrack" />
 			<bool name="is_visible_in_game" value="True" />
 			<float name="precise_size" value="-1" />
 		</template_reference>
@@ -81,20 +81,20 @@
 			<locstring name="tooltip_txt" value="0" />
 			<int name="ui_priority" value="0" />
 			<icon name="minimap_icon" value="" />
-			<icon name="portrait_icon_winter" value="Icons_portraits_vehicle_west_german_halftrack_251_walking_stuka_w_portrait" />
+			<icon name="portrait_icon_winter" value="Icons_portraits_vehicle_aef_halftrack_m15a1_aa_w_portrait" />
 			<group name="speaker_alt">
 				<string name="code_1" value="" />
 				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<float name="minimap_icon_scale" value="1" />
-			<icon name="portrait_icon_summer" value="Icons_portraits_vehicle_west_german_halftrack_251_walking_stuka_s_portrait" />
+			<icon name="portrait_icon_summer" value="Icons_portraits_vehicle_aef_halftrack_m15a1_aa_s_portrait" />
 			<locstring name="brief_text" value="0" />
 			<locstring name="extra_text" value="0" />
 			<locstring name="screen_name_short" value="0" />
 			<bool name="show_in_build_log" value="True" />
 			<bool name="show_entity_appearance" value="True" />
-			<locstring name="screen_name_world" value="11073013" />
+			<locstring name="screen_name_world" value="11073029" />
 			<locstring name="help_text_world" value="0" />
 			<locstring name="extra_text_world" value="0" />
 			<enum name="map_rotation_type_override" value="no_override" />
@@ -123,8 +123,8 @@
 			<bool name="is_salvagable_wreck" value="True" />
 			<bool name="keep_wreck_ownership" value="False" />
 			<bool name="rear_damage_enabled" value="False" />
-			<instance_reference name="rebuilt_entity" value="ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_wurfrahmen_40_mp" />
-			<instance_reference name="rebuilt_squad" value="sbps\races\west_german\vehicles\halftrack_squads\sdkfz_251_wurfrahmen_40_halftrack_squad_mp" />
+			<instance_reference name="rebuilt_entity" value="ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp" />
+			<instance_reference name="rebuilt_squad" value="sbps\races\aef\vehicles\m3_halftrack_squad\m15a1_aa_halftrack_squad_mp" />
 			<bool name="rebuilt_use_wreck_owner" value="False" />
 			<bool name="receive_weapon_cover_modifiers" value="True" />
 			<float name="regeneration" value="0" />
@@ -135,7 +135,7 @@
 			<instance_reference name="wreck_entity" value="" />
 			<list name="death_actions">
 			</list>
-			<float name="armor" value="12" />
+			<float name="armor" value="15" />
 			<float name="rear_armor" value="0" />
 			<float name="target_size" value="1" />
 			<bool name="dies_from_broken_ice" value="True" />
@@ -237,7 +237,7 @@
 			<list name="actions">
 				<template_reference name="action" value="action\animator_set_event">
 					<string name="event_name" value="fake_wreck" />
-					<uniqueid name="id" value="1073742219" />
+					<uniqueid name="id" value="1073744022" />
 				</template_reference>
 				<template_reference name="action" value="action\damage">
 					<float name="damage" value="0.5" />
@@ -245,13 +245,13 @@
 					<bool name="set" value="True" />
 					<bool name="cause_criticals" value="False" />
 					<enum name="crit_weapon_type" value="small_arms" />
-					<uniqueid name="id" value="1073742220" />
+					<uniqueid name="id" value="1073744023" />
 				</template_reference>
 				<template_reference name="action" value="action\upgrade_add">
 					<bool name="apply_to_entities_in_squad" value="True" />
 					<bool name="trigger_publish_event" value="False" />
 					<instance_reference name="upgrade" value="upgrade\wreck_smoke" />
-					<uniqueid name="id" value="1073742221" />
+					<uniqueid name="id" value="1073744024" />
 				</template_reference>
 				<template_reference name="action" value="action\timed_action">
 					<float name="duration" value="20" />
@@ -269,10 +269,10 @@
 								<enum name="unit_type" value="infantry" />
 							</template_reference>
 							<bool name="permanent" value="False" />
-							<uniqueid name="id" value="1073742222" />
+							<uniqueid name="id" value="1073744025" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742223" />
+					<uniqueid name="id" value="1073744026" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -305,14 +305,14 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="20" />
+					<float name="fuel" value="10" />
 					<float name="manpower" value="0" />
-					<float name="munition" value="25" />
+					<float name="munition" value="15" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="50" />
+				<float name="time_seconds" value="1" />
 			</group>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="16600" />
+	<uniqueid name="pbgid" value="16592" />
 </instance>
