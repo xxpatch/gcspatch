@@ -207,6 +207,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\panther_sdkfz_171_ausf_g\panther_sdkfz_171_ausf_g_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\puma_sdkfz_234\puma_sdkfz_234_mp.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\sturmtiger_606_38cm_rw_61\sturmtiger_606_38cm_rw_61_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\sapper_squad\sapper_squad_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\soldiers\sapper_squad\sapper_squad_recovery_mp.rgd
 	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\GCSpatch\gcspatch Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\british\vehicles\comet_tank_squad_mp\comet_tank_squad_mp.rgd
