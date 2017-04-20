@@ -315,7 +315,7 @@
 					<bool name="prevent_standing" value="False" />
 				</group>
 				<float name="safety_value" value="0.4" />
-				<float name="speed_multiplier" value="0.6" />
+				<float name="speed_multiplier" value="1" />
 				<list name="actions">
 					<template_reference name="action" value="action\animator_set_action">
 						<string name="action_name" value="UI\Cover\Heavy_Cover" />
@@ -341,7 +341,7 @@
 					<bool name="prevent_standing" value="False" />
 				</group>
 				<float name="safety_value" value="0.2" />
-				<float name="speed_multiplier" value="0.8" />
+				<float name="speed_multiplier" value="1" />
 				<list name="actions">
 					<template_reference name="action" value="action\animator_set_state">
 						<bool name="apply_to_leader_only" value="False" />
@@ -379,7 +379,7 @@
 					<bool name="prevent_standing" value="False" />
 				</group>
 				<float name="safety_value" value="0" />
-				<float name="speed_multiplier" value="0.6" />
+				<float name="speed_multiplier" value="1" />
 				<list name="actions">
 				</list>
 			</group>
@@ -485,7 +485,7 @@
 					<bool name="prevent_standing" value="False" />
 				</group>
 				<float name="safety_value" value="-0.5" />
-				<float name="speed_multiplier" value="0.6" />
+				<float name="speed_multiplier" value="0.7" />
 				<enum name="override_path_weight" value="" />
 			</group>
 			<group name="tp_zz_team_weapon_heavy">
@@ -500,12 +500,12 @@
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\moving_ext">
-			<float name="acceleration" value="4" />
-			<float name="deceleration" value="3.6" />
+			<float name="acceleration" value="-1" />
+			<float name="deceleration" value="-1" />
 			<float name="high_path_look_ahead_max_dist" value="25" />
 			<bool name="orient_to_terrain" value="True" />
 			<instance_reference name="pass_type" value="pass_types\land_only" />
-			<float name="rotation_rate" value="120" />
+			<float name="rotation_rate" value="225" />
 			<float name="rotation_rate_crouch" value="870" />
 			<float name="rotation_rate_prone" value="225" />
 			<float name="rotation_rate_stand" value="870" />
