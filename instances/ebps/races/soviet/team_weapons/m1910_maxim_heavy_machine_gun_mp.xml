@@ -729,7 +729,7 @@
 					<instance_reference name="ext_key" value="racebps\british" />
 					<group name="info">
 						<instance_reference name="capture_squad_blueprint" value="sbps\races\soviet\soldiers\m1910_maxim_hmg_squad\m1910_maxim_heavy_machine_gun_squad_mp" />
-						<float name="max_capture_crew_size" value="2" />
+						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">
 						</list>

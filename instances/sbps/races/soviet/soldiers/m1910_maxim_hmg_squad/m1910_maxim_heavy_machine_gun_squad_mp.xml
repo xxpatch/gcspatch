@@ -353,28 +353,28 @@
 			<float name="ranged_attackrange" value="0" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_formation_ext">
-			<float name="combat_follower_cover_search_radius" value="2" />
+			<float name="combat_follower_cover_search_radius" value="1" />
 			<group name="cover_formation_table">
-				<instance_reference name="tp_defcover" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_defcover_narrow" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_garrison_cover" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_garrison_halftrack" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_heavy" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_light" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_negative" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_open" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_smoke" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_trench" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_water" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_z_bunker" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_z_emplacement" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_z_ice" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_z_snow" value="squad_formations\soviet_team_weapon_triangle" />
-				<instance_reference name="tp_zz_deep_snow" value="squad_formations\default" />
-				<instance_reference name="tp_zz_mud" value="squad_formations\default" />
-				<instance_reference name="tp_zz_team_weapon_heavy" value="squad_formations\soviet_team_weapon_triangle" />
+				<instance_reference name="tp_defcover" value="squad_formations\british_line" />
+				<instance_reference name="tp_defcover_narrow" value="squad_formations\british_line" />
+				<instance_reference name="tp_garrison_cover" value="squad_formations\british_line" />
+				<instance_reference name="tp_garrison_halftrack" value="squad_formations\default" />
+				<instance_reference name="tp_heavy" value="squad_formations\british_cover_default" />
+				<instance_reference name="tp_light" value="squad_formations\british_cover_default" />
+				<instance_reference name="tp_negative" value="squad_formations\british_line" />
+				<instance_reference name="tp_open" value="squad_formations\british_line" />
+				<instance_reference name="tp_smoke" value="squad_formations\british_line" />
+				<instance_reference name="tp_trench" value="squad_formations\default" />
+				<instance_reference name="tp_water" value="squad_formations\british_line" />
+				<instance_reference name="tp_z_bunker" value="squad_formations\wedge" />
+				<instance_reference name="tp_z_emplacement" value="squad_formations\default" />
+				<instance_reference name="tp_z_ice" value="squad_formations\british_line" />
+				<instance_reference name="tp_z_snow" value="squad_formations\british_line" />
+				<instance_reference name="tp_zz_deep_snow" value="squad_formations\british_line" />
+				<instance_reference name="tp_zz_mud" value="squad_formations\british_line" />
+				<instance_reference name="tp_zz_team_weapon_heavy" value="squad_formations\default" />
 			</group>
-			<float name="move_dest_cover_search_radius" value="5" />
+			<float name="move_dest_cover_search_radius" value="1" />
 			<group name="squad_distribution_table">
 				<group name="01_soldiers">
 					<float name="units_in_core" value="1" />
@@ -383,27 +383,27 @@
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="02_soldiers">
-					<float name="units_in_core" value="2" />
+					<float name="units_in_core" value="1" />
 					<float name="units_in_left_flank" value="0" />
 					<float name="units_in_right_flank" value="0" />
-					<float name="units_in_scout" value="0" />
+					<float name="units_in_scout" value="1" />
 				</group>
 				<group name="03_soldiers">
-					<float name="units_in_core" value="3" />
-					<float name="units_in_left_flank" value="0" />
-					<float name="units_in_right_flank" value="0" />
+					<float name="units_in_core" value="1" />
+					<float name="units_in_left_flank" value="1" />
+					<float name="units_in_right_flank" value="1" />
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="04_soldiers">
-					<float name="units_in_core" value="2" />
+					<float name="units_in_core" value="1" />
 					<float name="units_in_left_flank" value="1" />
-					<float name="units_in_right_flank" value="1" />
+					<float name="units_in_right_flank" value="2" />
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="05_soldiers">
-					<float name="units_in_core" value="3" />
-					<float name="units_in_left_flank" value="1" />
-					<float name="units_in_right_flank" value="1" />
+					<float name="units_in_core" value="1" />
+					<float name="units_in_left_flank" value="2" />
+					<float name="units_in_right_flank" value="2" />
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="06_soldiers">
@@ -419,10 +419,10 @@
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="08_soldiers">
-					<float name="units_in_core" value="2" />
-					<float name="units_in_left_flank" value="2" />
-					<float name="units_in_right_flank" value="2" />
-					<float name="units_in_scout" value="2" />
+					<float name="units_in_core" value="8" />
+					<float name="units_in_left_flank" value="0" />
+					<float name="units_in_right_flank" value="0" />
+					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="09_soldiers">
 					<float name="units_in_core" value="3" />
@@ -437,7 +437,7 @@
 					<float name="units_in_scout" value="2" />
 				</group>
 			</group>
-			<bool name="support_weapons_to_flanks" value="False" />
+			<bool name="support_weapons_to_flanks" value="True" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_item_slot_ext">
 			<bool name="can_pick_up" value="True" />
